@@ -1,0 +1,2 @@
+II/F
+ 	 Tízzel oszhtató számok száma: 0
